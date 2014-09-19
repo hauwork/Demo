@@ -18,6 +18,8 @@ public class A
     
     double b;
     
+    String c =  "GitHub";
+    
     
 
 }
