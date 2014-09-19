@@ -12,5 +12,12 @@ package demoprojekt;
  */
 public class A
 {
+
     int a;
+    
+    
+    double b;
+    
+    
+
 }
