@@ -6,13 +6,25 @@
 
 package demoprojekt;
 
+
+
 /**
  *
  * @author abettbl
  */
 public class BobArne {
     
-    private String = "Bob-Arne";
+    private String HEJMEDDIG = "Bob-Arne";
+
     // JEG KAN LAVE PUSH LOL!
+    public BobArne(String derp) {
+        this.HEJMEDDIG = derp;
+    }
+    
+    public void funLoop(int a){
+        
+        
+    }
+    
     
 }
