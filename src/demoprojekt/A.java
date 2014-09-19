@@ -12,5 +12,5 @@ package demoprojekt;
  */
 public class A
 {
-    
+    int a;
 }
